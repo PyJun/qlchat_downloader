@@ -14,7 +14,7 @@
 
 
 ## 使用教程
-### 第一步：电脑网页打开千聊官网（ https://m.qlchat.com ）
+### 第一步：电脑网页打开千聊官网（ https://m.qlchat.com/wechat/page/mine ）
 ![登录千聊网页](https://github.com/PyJun/qlchat_downloader/assets/39453044/23d58522-aeb9-4f2f-96a1-e40bc5be7980)
 ### 第二步：从千聊网页复制对应的课程链接
 ![复制课程链接](https://github.com/PyJun/qlchat_downloader/assets/39453044/a7e05720-f03b-4c15-8eb6-dc449e78fa24)
